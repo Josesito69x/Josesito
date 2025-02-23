@@ -160,3 +160,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 03:11:31.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Stone Age]
 [23Feb2025 03:20:07.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dynaw lost connection: Disconnected
 [23Feb2025 03:20:07.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw left the game
+[23Feb2025 03:24:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Knowledge of Death]
+[23Feb2025 03:24:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Ambush]
+[23Feb2025 03:27:17.050] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[23Feb2025 03:27:17.051] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[23Feb2025 03:28:17.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has reached the goal [Strong or Careful]
+[23Feb2025 03:28:17.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa fell from a high place
+[23Feb2025 03:28:17.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Your First Grave]
+[23Feb2025 03:30:05.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Knowledge of Death]
+[23Feb2025 03:30:05.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Ashes 'n Bones]
+[23Feb2025 03:31:49.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [A Strange Grave Dust]
+[23Feb2025 03:33:51.537] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[23Feb2025 03:33:51.539] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[23Feb2025 03:34:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was shot by Skeleton
+[23Feb2025 03:34:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 03:34:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 03:35:03.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [The Most Useful Key]
+[23Feb2025 03:35:08.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has reached the goal [A Fast Comeback]
+[23Feb2025 03:35:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has reached the goal [Easy Opening]
+[23Feb2025 03:35:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has reached the goal [Here They Come]
+[23Feb2025 03:36:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Ashes 'n Bones]
+[23Feb2025 03:40:31.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dynaw[/127.125.216.250:60683] logged in with entity id 20473 at (-752.5021897259442, 66.5625, 133.38926036847735)
+[23Feb2025 03:40:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw joined the game
