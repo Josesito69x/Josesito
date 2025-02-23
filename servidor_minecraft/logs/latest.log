@@ -247,3 +247,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 04:28:22.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
 [23Feb2025 04:30:28.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [The Journey Begins]
 [23Feb2025 04:30:40.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 04:31:03.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 04:31:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 04:31:23.905] [Server thread/WARN] [tombstone/]: The death event of the player Dynaw was canceled by another mod
+[23Feb2025 04:31:23.906] [Server thread/INFO] [tombstone/]: The player Dynaw has successfully been saved
+[23Feb2025 04:31:30.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dynaw lost connection: Disconnected
+[23Feb2025 04:31:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw left the game
+[23Feb2025 04:31:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw drowned
+[23Feb2025 04:34:01.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 04:34:11.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FlavixZr[/127.151.135.11:59313] logged in with entity id 37752 at (-983.3471547616264, -47.0, 649.8316099949352)
+[23Feb2025 04:34:11.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr joined the game
+[23Feb2025 04:34:53.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported KillerPCausa to -1567.500000, -49.000000, 16.500000]
+[23Feb2025 04:34:53.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7343ms or 146 ticks behind
+[23Feb2025 04:34:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
+[23Feb2025 04:35:17.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 04:35:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 04:35:24.061] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[23Feb2025 04:35:24.081] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[23Feb2025 04:36:10.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported FlavixZr to KillerPCausa]
+[23Feb2025 04:36:46.872] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[23Feb2025 04:36:47.052] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[23Feb2025 04:36:47.053] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[23Feb2025 04:36:47.071] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[23Feb2025 04:36:47.071] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[23Feb2025 04:36:47.091] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[23Feb2025 04:36:47.091] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[23Feb2025 04:36:47.091] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[23Feb2025 04:36:47.091] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[23Feb2025 04:36:47.091] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[23Feb2025 04:38:27.326] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[23Feb2025 04:38:27.334] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[23Feb2025 04:38:40.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 04:38:45.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 04:39:46.628] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[23Feb2025 04:39:46.638] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[23Feb2025 04:39:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 04:39:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
