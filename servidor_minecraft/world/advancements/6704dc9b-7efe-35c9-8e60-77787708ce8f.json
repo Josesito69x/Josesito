@@ -31,6 +31,7 @@
       "minecraft:hoglin": "2025-02-16 02:45:20 +0000",
       "minecraft:spider": "2025-02-16 01:25:43 +0000",
       "minecraft:piglin": "2025-02-16 02:39:13 +0000",
+      "minecraft:enderman": "2025-02-23 03:13:16 +0000",
       "minecraft:zombie": "2025-02-16 01:25:06 +0000"
     },
     "done": false
@@ -2646,6 +2647,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/straw": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
@@ -2694,6 +2701,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
@@ -2709,6 +2722,12 @@
   "cfm:recipes/decorations/acacia_upgraded_fence": {
     "criteria": {
       "has_log": "2025-02-23 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
     },
     "done": true
   },
@@ -2766,6 +2785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-02-23 02:38:01 +0000"
@@ -2775,6 +2800,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
     },
     "done": true
   },
@@ -3114,6 +3145,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-02-23 03:01:52 +0000"
@@ -3135,6 +3172,12 @@
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
     },
     "done": true
   },
@@ -3213,6 +3256,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-02-23 02:55:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
     },
     "done": true
   },
@@ -3309,6 +3358,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-23 03:13:40 +0000"
     },
     "done": true
   },
@@ -3543,6 +3598,12 @@
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_planks": "2025-02-23 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-23 03:06:46 +0000"
     },
     "done": true
   },
