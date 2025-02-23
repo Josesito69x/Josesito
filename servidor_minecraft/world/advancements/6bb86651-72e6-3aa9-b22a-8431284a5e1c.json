@@ -4521,9 +4521,81 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-23 04:42:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-02-23 04:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:49:07 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:49:07 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
     },
     "done": true
   },
@@ -4533,9 +4605,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-23 04:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-02-23 04:49:10 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:49:07 +0000"
     },
     "done": true
   },
@@ -4545,15 +4659,45 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:49:07 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "prairie": "2025-02-23 04:36:11 +0000"
     },
     "done": false
   },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-02-23 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
     },
     "done": true
   },
@@ -4563,9 +4707,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-23 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-23 04:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-23 04:34:38 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-02-23 04:49:58 +0000"
     },
     "done": true
   },

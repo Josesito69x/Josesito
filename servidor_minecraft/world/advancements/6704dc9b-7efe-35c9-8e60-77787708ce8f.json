@@ -2904,9 +2904,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:50:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-23 04:46:19 +0000"
     },
     "done": true
   },
@@ -3084,6 +3096,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:50:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
@@ -3105,6 +3123,12 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:50:15 +0000"
     },
     "done": true
   },
@@ -3213,6 +3237,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:50:15 +0000"
     },
     "done": true
   },
@@ -3606,6 +3636,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-23 04:50:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_desk": {
     "criteria": {
       "has_log": "2025-02-23 03:59:46 +0000"
@@ -3639,6 +3675,12 @@
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-02-23 04:49:28 +0000"
     },
     "done": true
   },
@@ -3786,6 +3828,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-23 04:46:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
@@ -3804,9 +3852,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-23 04:50:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-02-23 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:50:15 +0000"
     },
     "done": true
   },
@@ -3837,6 +3897,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-02-23 04:50:15 +0000"
     },
     "done": true
   },
@@ -4290,6 +4356,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-02-23 04:50:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
@@ -4635,6 +4707,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-02-23 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-23 04:46:19 +0000"
     },
     "done": true
   },
