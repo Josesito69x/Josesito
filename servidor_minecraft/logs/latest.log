@@ -147,3 +147,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 02:40:52.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has completed the challenge [Chisels & Bits!]
 [23Feb2025 02:49:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Best Friends Forever]
 [23Feb2025 02:52:28.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5522, l='ServerLevel[world]', x=-657.40, y=66.80, z=-168.30] died, message: 'Villager was slain by Zombie'
+[23Feb2025 03:01:33.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dynaw[/127.78.138.156:52947] logged in with entity id 9451 at (177.5, 73.0, 234.5)
+[23Feb2025 03:01:34.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw joined the game
+[23Feb2025 03:01:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Ice and Fire]
+[23Feb2025 03:02:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Alex's Mobs]
+[23Feb2025 03:02:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported Dynaw to KillerPCausa]
+[23Feb2025 03:03:29.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KillerPCausa> @Create
+[23Feb2025 03:05:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Suit Up]
+[23Feb2025 03:06:48.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Getting an Upgrade]
+[23Feb2025 03:07:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KillerPCausa> [name:"Casita uwu", x:-808, y:74, z:145, dim:minecraft:overworld]
+[23Feb2025 03:08:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Sweet Dreams]
