@@ -132,3 +132,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 02:29:47.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FlavixZr[/127.151.135.11:58225] logged in with entity id 954 at (-819.7643409542973, 66.0, 193.82156704204257)
 [23Feb2025 02:29:47.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr joined the game
 [23Feb2025 02:29:47.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Ice and Fire]
+[23Feb2025 02:30:08.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made FlavixZr a server operator
+[23Feb2025 02:30:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FlavixZr: Set own game mode to Creative Mode]
+[23Feb2025 02:30:21.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FlavixZr: Set the time to 1000]
+[23Feb2025 02:31:11.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FlavixZr: Set own game mode to Survival Mode]
+[23Feb2025 02:31:24.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FlavixZr: Applied effect Regeneration to FlavixZr]
+[23Feb2025 02:31:33.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FlavixZr: Applied effect Regeneration to FlavixZr]
+[23Feb2025 02:31:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FlavixZr: Made FlavixZr no longer a server operator]
+[23Feb2025 02:35:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Masquerade]
+[23Feb2025 02:36:05.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.190.195.153:55475] logged in with entity id 2304 at (-795.5415931659857, 67.7067239296222, 198.909319724564)
+[23Feb2025 02:36:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa joined the game
+[23Feb2025 02:36:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 02:38:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Alex's Mobs]
