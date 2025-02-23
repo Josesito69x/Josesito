@@ -146,3 +146,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 02:38:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Alex's Mobs]
 [23Feb2025 02:40:52.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has completed the challenge [Chisels & Bits!]
 [23Feb2025 02:49:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Best Friends Forever]
+[23Feb2025 02:52:28.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5522, l='ServerLevel[world]', x=-657.40, y=66.80, z=-168.30] died, message: 'Villager was slain by Zombie'
