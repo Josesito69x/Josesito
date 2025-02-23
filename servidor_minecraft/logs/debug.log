@@ -6117,3 +6117,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 02:36:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa joined the game
 [23Feb2025 02:36:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
 [23Feb2025 02:38:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Alex's Mobs]
+[23Feb2025 02:40:52.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has completed the challenge [Chisels & Bits!]
+[23Feb2025 02:40:53.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 02:40:53.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 02:45:53.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 02:45:53.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 02:49:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Best Friends Forever]
