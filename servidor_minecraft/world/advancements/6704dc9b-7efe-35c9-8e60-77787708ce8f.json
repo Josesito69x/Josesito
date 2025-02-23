@@ -14,6 +14,8 @@
       "minecraft:swamp": "2025-02-16 00:24:38 +0000",
       "minecraft:forest": "2025-02-16 00:54:09 +0000",
       "minecraft:ocean": "2025-02-16 00:51:02 +0000",
+      "minecraft:jungle": "2025-02-23 03:39:43 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-23 03:59:28 +0000",
       "minecraft:savanna": "2025-02-16 00:53:28 +0000",
       "minecraft:plains": "2025-02-16 00:51:14 +0000"
     },
@@ -31,6 +33,7 @@
       "minecraft:hoglin": "2025-02-16 02:45:20 +0000",
       "minecraft:spider": "2025-02-16 01:25:43 +0000",
       "minecraft:witch": "2025-02-23 03:24:40 +0000",
+      "minecraft:cave_spider": "2025-02-23 04:21:35 +0000",
       "minecraft:piglin": "2025-02-16 02:39:13 +0000",
       "minecraft:enderman": "2025-02-23 03:13:16 +0000",
       "minecraft:zombie": "2025-02-16 01:25:06 +0000"
@@ -2583,6 +2586,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_planks": "2025-02-23 02:38:01 +0000"
@@ -2610,6 +2619,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-23 03:18:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
     },
     "done": true
   },
@@ -2652,6 +2667,12 @@
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
     },
     "done": true
   },
@@ -2721,6 +2742,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
@@ -2769,6 +2796,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-02-23 03:13:40 +0000"
@@ -2781,15 +2814,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-23 03:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2025-02-23 02:49:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-23 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-23 03:59:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
     },
     "done": true
   },
@@ -2802,6 +2859,18 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
     },
     "done": true
   },
@@ -2841,15 +2910,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-23 04:00:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-23 03:13:40 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-02-23 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
     },
     "done": true
   },
@@ -2868,6 +2955,18 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-23 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-23 03:59:46 +0000"
     },
     "done": true
   },
@@ -2961,6 +3060,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-23 03:18:38 +0000"
@@ -2979,6 +3084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-23 03:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-23 03:19:26 +0000"
@@ -2988,6 +3099,12 @@
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-23 03:50:59 +0000"
     },
     "done": true
   },
@@ -3048,6 +3165,12 @@
   "cfm:recipes/decorations/acacia_blinds": {
     "criteria": {
       "has_log": "2025-02-23 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
     },
     "done": true
   },
@@ -3153,15 +3276,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-23 04:10:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
     },
     "done": true
   },
@@ -3249,6 +3390,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
@@ -3288,6 +3435,12 @@
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-02-23 03:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
     },
     "done": true
   },
@@ -3339,6 +3492,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-02-23 03:01:52 +0000"
@@ -3354,6 +3513,12 @@
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
     },
     "done": true
   },
@@ -3375,6 +3540,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
@@ -3393,9 +3564,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-23 03:49:40 +0000"
     },
     "done": true
   },
@@ -3414,6 +3609,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
     },
     "done": true
   },
@@ -3441,9 +3642,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-23 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-23 03:50:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-23 04:00:56 +0000"
     },
     "done": true
   },
@@ -3477,6 +3708,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-02-23 02:38:01 +0000"
@@ -3495,6 +3732,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-23 03:18:38 +0000"
@@ -3504,6 +3747,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-23 04:00:47 +0000"
     },
     "done": true
   },
@@ -3549,6 +3798,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
@@ -3567,6 +3822,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
@@ -3576,6 +3837,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:46 +0000"
     },
     "done": true
   },
@@ -3603,6 +3870,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-23 04:00:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-23 04:00:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
@@ -3615,9 +3900,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-23 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-23 03:18:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-23 04:00:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
     },
     "done": true
   },
@@ -3651,6 +3960,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-23 04:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
@@ -3681,6 +3996,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2025-02-23 03:01:52 +0000"
@@ -3699,9 +4026,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-23 04:00:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
     },
     "done": true
   },
@@ -3732,6 +4071,12 @@
   "cfm:recipes/decorations/acacia_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-23 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-23 04:00:56 +0000"
     },
     "done": true
   },
@@ -3771,6 +4116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-23 04:21:40 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/wrench": {
     "criteria": {
       "has_p": "2025-02-23 02:38:01 +0000"
@@ -3807,6 +4158,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
     "criteria": {
       "has_log": "2025-02-23 03:01:52 +0000"
@@ -3816,6 +4173,12 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-23 03:18:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-23 04:01:00 +0000"
     },
     "done": true
   },
@@ -3879,6 +4242,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
@@ -3909,6 +4278,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-23 02:38:01 +0000"
@@ -3933,6 +4308,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_log": "2025-02-23 03:59:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-23 02:57:41 +0000"
@@ -3951,9 +4332,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-23 03:50:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-23 03:59:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_planks": "2025-02-23 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-23 04:00:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-23 03:59:51 +0000"
     },
     "done": true
   },
@@ -4023,6 +4428,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-02-23 03:24:48 +0000"
@@ -4032,6 +4443,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-02-23 03:35:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-23 03:36:17 +0000"
     },
     "done": true
   },
@@ -4056,6 +4473,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-02-23 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 04:27:42 +0000"
     },
     "done": true
   },

@@ -182,3 +182,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 03:36:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Ashes 'n Bones]
 [23Feb2025 03:40:31.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dynaw[/127.125.216.250:60683] logged in with entity id 20473 at (-752.5021897259442, 66.5625, 133.38926036847735)
 [23Feb2025 03:40:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw joined the game
+[23Feb2025 03:44:23.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 03:44:45.169] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:has_underground_cabins (minecraft:lukewarm_ocean) took 8 ms
+[23Feb2025 03:45:19.238] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:has_underground_cabins (minecraft:lukewarm_ocean) took 0 ms
+[23Feb2025 03:45:30.238] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:has_underground_cabins (minecraft:lukewarm_ocean) took 0 ms
+[23Feb2025 03:45:41.769] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:trench_ignores_stone_in (minecraft:frozen_ocean) took 1232 ms
+[23Feb2025 03:46:41.013] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 447 ms
+[23Feb2025 03:47:52.799] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 0 ms
+[23Feb2025 03:48:25.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 03:48:36.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KillerPCausa> -1024, 688
+[23Feb2025 03:55:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Flexible Schedule]
+[23Feb2025 03:56:11.088] [Server thread/WARN] [tombstone/]: The death event of the player FlavixZr was canceled by another mod
+[23Feb2025 03:56:11.093] [Server thread/INFO] [tombstone/]: The player FlavixZr has successfully been saved
+[23Feb2025 03:57:11.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has reached the goal [Strong or Careful]
+[23Feb2025 03:57:11.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr was slain by Murmur
+[23Feb2025 03:57:11.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Your First Grave]
+[23Feb2025 03:57:17.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has reached the goal [Here They Come]
+[23Feb2025 03:57:39.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Gave 1 [Ender Pearl] to FlavixZr]
+[23Feb2025 03:57:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [The Most Useful Key]
+[23Feb2025 03:58:16.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has reached the goal [A Fast Comeback]
+[23Feb2025 03:59:27.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported KillerPCausa to -1023.500000, -33.000000, 688.500000]
+[23Feb2025 03:59:27.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[23Feb2025 03:59:28.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FlavixZr moved too quickly! -10.024014584880547,-0.7508129212553172,-0.8482662908996588
+[23Feb2025 03:59:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Alex's Caves]
+[23Feb2025 04:01:00.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Once Upon a Cave]
+[23Feb2025 04:01:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [It Belongs in a Museum]
+[23Feb2025 04:02:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Monster Hunter]
+[23Feb2025 04:03:40.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported FlavixZr to KillerPCausa]
+[23Feb2025 04:03:41.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Alex's Caves]
+[23Feb2025 04:03:50.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Once Upon a Cave]
+[23Feb2025 04:04:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [It Belongs in a Museum]
+[23Feb2025 04:04:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported Dynaw to KillerPCausa]
+[23Feb2025 04:04:57.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Alex's Caves]
+[23Feb2025 04:07:28.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Diamonds!]
+[23Feb2025 04:07:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Crops of the Wild]
+[23Feb2025 04:10:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Lorem Ipsum]
+[23Feb2025 04:11:48.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Acquire Hardware]
+[23Feb2025 04:11:56.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Crops of the Wild]
+[23Feb2025 04:13:00.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Where Is The Stone Pen?]
+[23Feb2025 04:17:15.881] [Server thread/WARN] [tombstone/]: The death event of the player Dynaw was canceled by another mod
+[23Feb2025 04:17:15.889] [Server thread/INFO] [tombstone/]: The player Dynaw has successfully been saved
+[23Feb2025 04:17:48.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported Dynaw to FlavixZr]
+[23Feb2025 04:18:20.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa moved wrongly!
+[23Feb2025 04:18:35.878] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:underground_cabin took 0 ms
+[23Feb2025 04:19:25.662] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:wrought_chamber took 31 ms
+[23Feb2025 04:19:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KillerPCausa> -1568, 16
+[23Feb2025 04:20:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Isn't It Iron Pick]
+[23Feb2025 04:22:32.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr has made the advancement [Amateur Archaeologist]
+[23Feb2025 04:23:51.831] [Server thread/WARN] [tombstone/]: The death event of the player Dynaw was canceled by another mod
+[23Feb2025 04:23:51.832] [Server thread/INFO] [tombstone/]: The player Dynaw has successfully been saved
+[23Feb2025 04:24:07.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FlavixZr lost connection: Disconnected
+[23Feb2025 04:24:07.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlavixZr left the game
+[23Feb2025 04:24:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Knowledge of Death]
+[23Feb2025 04:24:42.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has reached the goal [Strong or Careful]
+[23Feb2025 04:24:42.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw was doomed to fall by Skeleton
+[23Feb2025 04:24:42.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Your First Grave]
+[23Feb2025 04:24:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Gave 1 [Ender Pearl] to Dynaw]
+[23Feb2025 04:25:57.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 04:26:05.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 04:26:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [Knowledge raises the soul]
+[23Feb2025 04:27:49.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dynaw has made the advancement [The Most Useful Key]
+[23Feb2025 04:28:00.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
+[23Feb2025 04:28:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[23Feb2025 04:28:22.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[23Feb2025 04:30:28.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [The Journey Begins]
+[23Feb2025 04:30:40.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
